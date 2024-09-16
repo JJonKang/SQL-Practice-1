@@ -1,0 +1,3 @@
+
+SELECT COUNT(DISTINCT Ride_Date)
+FROM Ridership;
